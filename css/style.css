@@ -1,0 +1,34 @@
+.first-section{
+    background-color: #FFFBF0;
+}
+.heading-first{
+    color: #FABE4C;
+    text-transform: uppercase;
+
+}
+.heading-second{
+    color: #363958;
+    text-transform: uppercase;
+
+}
+
+.button{
+    background-image: linear-gradient(#A4BC46, #85A019);
+    color:white;
+}
+
+.man-jacket{
+  
+    padding-top: 100px;
+    padding-bottom: 40px;
+     
+}
+.card-img-back{
+    background-color: rgba(220, 220, 220, 0.521);
+}
+.footer{
+    margin-top:130px;
+}
+.footer-logo{
+    width:78px;
+}
